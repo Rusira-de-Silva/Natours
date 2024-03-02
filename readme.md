@@ -1,8 +1,6 @@
-
 # Natours Application
 
 Tour management app built using Node.js, Express, MongoDB & Mongoose.
-
 
 ## Features
 
@@ -14,7 +12,6 @@ Tour management app built using Node.js, Express, MongoDB & Mongoose.
 - Server-side rendering with PUG templates
 - Image uploading & processing using Multer package
 
-
 ## Installation
 
 Install application locally with npm
@@ -22,7 +19,9 @@ Install application locally with npm
 ```bash
   npm i
 ```
+
 and create a config.env file
+
 ## Deployment
 
 Access Deployment: https://natours-aecz.onrender.com/
@@ -33,11 +32,9 @@ Or to start locally
   npm start
 ```
 
-
 ## 🔗 Links
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rusira-de-silva-b37192241/)
-
-
 
 ## Screenshots
 
@@ -65,6 +62,3 @@ Or to start locally
 #### Payment GateWay
 
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1vkLREdztMeSpTaJsWXir9uY0NoMcvxQK)
-
-
-
